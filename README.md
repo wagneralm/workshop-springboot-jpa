@@ -1,5 +1,5 @@
 # Projeto web services com Spring Boot e JPA / Hibernate
-
+[![Static Badge](https://img.shields.io/badge/LICENCE-MIT-blue)](https://github.com/wagneralm/workshop-springboot-jpa/blob/main/LICENSE)
 ## Sobre o projeto
 O objetivo é desenvolver uma aplicação Spring Boot Java, seguindo as diretrizes de qualidade e boas práticas de desenvolvimento, com ênfase na estrutura eficiente do código e tratamento sólido de exceções. O curso, ministrado pelo professor Nelio Alves da [DevSuperior](https://devsuperior.com.br/ "Site da DevSuperior"), foi fundamental para incorporar esses princípios. O projeto visa não apenas atender aos requisitos de CRUD e ao uso do banco de dados H2 para testes, mas também destaca-se pela clareza do código, facilitando a manutenção e promovendo uma experiência de aprendizado enriquecedora.
 
