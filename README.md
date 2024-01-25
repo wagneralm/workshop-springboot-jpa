@@ -60,6 +60,10 @@ PUT
 DELETE
   localhost:8080/users/{id}
 ```
+## Swagger-ui
+- path: localhost:8080/swagger-ui/index.html
+  
+![Swagger-ui](https://github.com/wagneralm/workshop-springboot-jpa/blob/main/assets/swagger-ui.png)
 
 # Autor
 
